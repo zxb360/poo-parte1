@@ -35,3 +35,5 @@ class Email {
       ${this._message}`;
     }
   }
+
+export default Email;
