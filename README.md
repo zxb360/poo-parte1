@@ -1,4 +1,4 @@
-# poo-parte1
+# OO-parte1
 implementando uma criacao de classe Email, EmailMail.
 Exercicio de fixação Em typescript
 
